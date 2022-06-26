@@ -1,0 +1,20 @@
+{
+	"name": "platformer",
+	"version": "0.1.0",
+	"author": "Lasse Kuechler <lasse@ukuechler.de>",
+	"license": "UNLICENSED",
+	"source": "src/index.html",
+	"scripts": {
+		"dev": "parcel",
+		"build": "parcel build"
+	},
+	"dependencies": {
+		"matter-js": "^0.18.0",
+		"stats.js": "^0.17.0",
+		"three": "^0.141.0",
+		"uuid": "^8.3.2"
+	},
+	"devDependencies": {
+		"parcel": "^2.6.2"
+	}
+}

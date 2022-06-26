@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+#physicsDebug {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
